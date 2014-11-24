@@ -10,7 +10,7 @@
 | Feb 23 | Organizer of Dart Flight School Omsk 2014 ([global site](https://www.dartlang.org/events/2014/flight-school/)) |
 | Mar 1-2 | Organizer of Siberian Hackathon ([habra-post](http://habrahabr.ru/company/google/blog/214053/)) |
 | Jul 19 | Talk ‹‹DI @ Android›› @ Day of Thubmtack's Expertise ([vk-event](http://vk.com/thumbtack_expert_day), [slides](https://speakerdeck.com/AlexKorovyansky/di-at-android), [record of talk](http://youtu.be/tPs1e3dQ6FU))|
-| 26 Jul | Доклад ‹‹What's new in Android›› @ Post Google I/O 2014 ([G+ event](https://plus.google.com/events/cbchfi6lj8cuk06vvns2csa66v4), [slids](https://speakerdeck.com/alexkorovyansky/whats-new-in-android)) |
+| 26 Jul | Talk ‹‹What's new in Android›› @ Post Google I/O 2014 ([G+ event](https://plus.google.com/events/cbchfi6lj8cuk06vvns2csa66v4), [slids](https://speakerdeck.com/alexkorovyansky/whats-new-in-android)) |
 | Jul 10 + | Adviser of Mobile Apps for Omsk Students Laboratory  ([site of the initiative](http://apps4omsk.ru)) |
 | Aug 8 | Co-organizer of Android Barcamp ([G+ event](https://plus.google.com/events/coorccja0rmvlbho42vjnm3cu9k)) |
 | Aug 20 + | Developer of Wear Pomodoro App ([Google Play](https://play.google.com/store/apps/details?id=com.alexkorovyansky.wearpomodoro&hl=en), [GitHub](https://github.com/AlexKorovyansky/WearPomodoro)) | 
