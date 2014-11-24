@@ -1,7 +1,9 @@
 | Timestamp | Activity |
 | --------- | -------- |
+|| `Early logs is missing ...` |
 | Sep 1 — Dec 31, 2013 | Преподаватель @ Учебный курс "В глубь платформы Android" на факультете компьютерных наук омского государственного университета ([пример презентации](https://speakerdeck.com/alexkorovyansky/dive-into-android-osnovy-intierfieisa-pol-zovatielia)) |
 | Nov 29 — Dec 1, 2013 | Android-эксперт @ Хакатон "Вперед вместе с Google" (Новосибирск) ([подробней](http://habrahabr.ru/company/google/blog/202672/)) |
+| | **Start of 2014 year** |
 | Dec 14, 2013 | Организатор видео-семинара Android Performance #1 @ GDG-RU ([g+ событие семинара](https://plus.google.com/events/cpqccs0rlcrt7r0hr5to3h3q6ak)) |
 | Jan 4, 2014 | Лекция "Вся правда о стартапах"" @ ШМИТ 2014 ([презентация](https://speakerdeck.com/alexkorovyansky/vsia-pravda-o-startapakh)) |
 | Feb 8, 2014 | Организатор видео-семинара Android Performance #2 @ GDG-RU ([g+ событие семинара](https://plus.google.com/events/cj0706u10bkk9alvvpvouo1ier8)) |
