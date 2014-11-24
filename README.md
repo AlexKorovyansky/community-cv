@@ -9,7 +9,7 @@
 | Feb 8 | Организатор видео-семинара Android Performance #2 @ GDG-RU ([g+ событие семинара](https://plus.google.com/events/cj0706u10bkk9alvvpvouo1ier8)) |
 | Feb 23 | Организатор Dart Flight School Omsk 2014 ([мировой сайт](https://www.dartlang.org/events/2014/flight-school/)) |
 | Mar 1-2 | Организатор Сибирского Хакатона ([подобней](http://habrahabr.ru/company/google/blog/214053/)) |
-| ? | Доклад "DI @ Android" @ День Экспертизы Тамтэк ([событие мероприятия](http://vk.com/thumbtack_expert_day), [презентация](https://speakerdeck.com/AlexKorovyansky/di-at-android), [запись доклада](http://youtu.be/tPs1e3dQ6FU))|
+| Jul 19 | Доклад "DI @ Android" @ День Экспертизы Тамтэк ([событие мероприятия](http://vk.com/thumbtack_expert_day), [презентация](https://speakerdeck.com/AlexKorovyansky/di-at-android), [запись доклада](http://youtu.be/tPs1e3dQ6FU))|
 | 26 Jul | Доклад "What's new in Android" @ Post Google I/O 2014 ([событие мероприятия](https://plus.google.com/events/cbchfi6lj8cuk06vvns2csa66v4), [презентация](https://speakerdeck.com/alexkorovyansky/whats-new-in-android)) |
 | Since Jul 10 | Куратор лаборатории мобильных приложений для Омска  ([сайт инициативы](http://apps4omsk.ru)) | Since Jul 10, 2014 |
 | Aug 8 | Со-организатор Android Barcamp ([подобней](https://plus.google.com/events/coorccja0rmvlbho42vjnm3cu9k)) |
