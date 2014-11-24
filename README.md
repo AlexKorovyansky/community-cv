@@ -1,4 +1,5 @@
 | Timestamp | Activity |
+| --------- | -------- |
 | Sep 1 — Dec 31, 2013 | Преподаватель @ учебный курс "В глубь платформы Android" на факультете компьютерных наук омского государственного университета ([пример презентации](https://speakerdeck.com/alexkorovyansky/dive-into-android-osnovy-intierfieisa-pol-zovatielia)) |
 
 * Преподаватель @ учебный курс "В глубь платформы Android" на факультете компьютерных наук омского государственного университета ([пример презентации](https://speakerdeck.com/alexkorovyansky/dive-into-android-osnovy-intierfieisa-pol-zovatielia)) | Sep 1 — Dec 31, 2013
