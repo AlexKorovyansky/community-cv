@@ -1,10 +1,9 @@
 | Timestamp | Activity |
 | --------- | -------- |
+
 | Sep 1 — Dec 31, 2013 | Преподаватель @ учебный курс "В глубь платформы Android" на факультете компьютерных наук омского государственного университета ([пример презентации](https://speakerdeck.com/alexkorovyansky/dive-into-android-osnovy-intierfieisa-pol-zovatielia)) |
 
-* Преподаватель @ учебный курс "В глубь платформы Android" на факультете компьютерных наук омского государственного университета ([пример презентации](https://speakerdeck.com/alexkorovyansky/dive-into-android-osnovy-intierfieisa-pol-zovatielia)) | Sep 1 — Dec 31, 2013
-
-* Android-эксперт @ хакатон "Вперед вместе с Google" (Новосибирск) ([подробней](http://habrahabr.ru/company/google/blog/202672/)) | Nov 29 — Dec 1, 2013
+| Nov 29 — Dec 1, 2013 | Android-эксперт @ хакатон "Вперед вместе с Google" (Новосибирск) ([подробней](http://habrahabr.ru/company/google/blog/202672/)) |
 
 * Организатор видео-семинара Android Performance #1 @ GDG-RU ([g+ событие семинара](https://plus.google.com/events/cpqccs0rlcrt7r0hr5to3h3q6ak)) | Dec 14, 2013
 
