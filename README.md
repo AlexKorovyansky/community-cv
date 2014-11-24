@@ -11,9 +11,9 @@
 | Mar 1-2 | Организатор Сибирского Хакатона ([подобней](http://habrahabr.ru/company/google/blog/214053/)) |
 | Jul 19 | Доклад "DI @ Android" @ День Экспертизы Тамтэк ([событие мероприятия](http://vk.com/thumbtack_expert_day), [презентация](https://speakerdeck.com/AlexKorovyansky/di-at-android), [запись доклада](http://youtu.be/tPs1e3dQ6FU))|
 | 26 Jul | Доклад "What's new in Android" @ Post Google I/O 2014 ([событие мероприятия](https://plus.google.com/events/cbchfi6lj8cuk06vvns2csa66v4), [презентация](https://speakerdeck.com/alexkorovyansky/whats-new-in-android)) |
-| Since Jul 10 | Куратор лаборатории мобильных приложений для Омска  ([сайт инициативы](http://apps4omsk.ru)) | Since Jul 10, 2014 |
+| > Jul 10 | Куратор лаборатории мобильных приложений для Омска  ([сайт инициативы](http://apps4omsk.ru)) | Since Jul 10, 2014 |
 | Aug 8 | Со-организатор Android Barcamp ([подобней](https://plus.google.com/events/coorccja0rmvlbho42vjnm3cu9k)) |
-| Since Aug 20  | Разработчик приложения Wear Pomodoro ([Ссылка на приложение](https://play.google.com/store/apps/details?id=com.alexkorovyansky.wearpomodoro&hl=en), [ссылка на исходники](https://github.com/AlexKorovyansky/WearPomodoro)) | 
+| > Aug 20  | Разработчик приложения Wear Pomodoro ([Ссылка на приложение](https://play.google.com/store/apps/details?id=com.alexkorovyansky.wearpomodoro&hl=en), [ссылка на исходники](https://github.com/AlexKorovyansky/WearPomodoro)) | 
 | Sep 13-14 | Мастер-класс "Android Dev from Zero to Hero" @ HappyDev-Lite 2014 ([сайт конференции](http://happydev-lite.ru), [подробней про мастер-клас](https://github.com/AlexKorovyansky/happydev-master-class)) |
 | Sep 24 - Oct 10 | Лектор/тренер/эксперт @ Android Trainers of Traines, Tbilisi, Georgia, 2014 (ускоренный курс по изучению Android, проведение лекций/мастер-классов и хакатона совместно с Android экспертами из Германии, Италии, Турции и Польши, включая трех действующих GDE) |
 | Oct 28 | Доклад "Lovely Testing of Android Apps" @ MBLTDev 2014 ([сайт конференции](http://mbltdev.ru/), [презентация](https://speakerdeck.com/alexkorovyansky/lovely-testing-of-android-apps)) |
