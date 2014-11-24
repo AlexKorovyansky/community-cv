@@ -20,6 +20,6 @@
 | Oct 28 | Talk ‹‹Lovely Testing of Android Apps›› @ MBLTDev 2014 ([site of the conference](http://mbltdev.ru/), [slides](https://speakerdeck.com/alexkorovyansky/lovely-testing-of-android-apps)) |
 | Dec 6-7 | Barcamp ‹‹Fast and Effective Development of Android Apps›› @ HappyDev 2014 ([site of the conference](http://happydev.ru)) |
 | Dec 6-7 | Master-class ‹‹Auto testing of Android apps›› @ HappyDev 2014 ([site of the conference](http://happydev.ru)) |
-| Dec 13-14 | Организатор GDG DevFest Omsk 2014 ([site of the conference](http://gdg-devfest-omsk.org)) |
+| Dec 13-14 | Organizer of GDG DevFest Omsk 2014 ([site of the conference](http://gdg-devfest-omsk.org)) |
 | Dec 13-14 | Talk ‹‹Hello Android Wear›› @ GDG DevFest Omsk 2014 ([site of the conference](http://gdg-devfest-omsk.org), [slides](WIP)) |
 | Dec 13-14 | Expert @ GDG DevFest 2014 in Android Wear section |
