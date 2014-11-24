@@ -15,8 +15,8 @@
 | Sep 13-14, 2014 | Мастер-класс "Android Dev from Zero to Hero" @ HappyDev-Lite 2014 ([сайт конференции](http://happydev-lite.ru), [подробней про мастер-клас](https://github.com/AlexKorovyansky/happydev-master-class)) |
 | Sep 24 - Oct 10, 2014 | Лектор/тренер/эксперт @ Android Trainers of Traines, Tbilisi, Georgia, 2014 (ускоренный курс по изучению Android, проведение лекций/мастер-классов и хакатона совместно с Android экспертами из Германии, Италии, Турции и Польши, включая трех действующих GDE) |
 | Oct 28, 2014 | Доклад "Lovely Testing of Android Apps" @ MBLTDev 2014 ([сайт конференции](http://mbltdev.ru/), [презентация](https://speakerdeck.com/alexkorovyansky/lovely-testing-of-android-apps)) |
-| Dec 6-7, 2014 | Организатор GDG DevFest Omsk 2014 ([сайт конференции](http://gdg-devfest-omsk.org)) |
-| Dec 6-7, 2014 | Доклад "Hello Android Wear" @ GDG DevFest Omsk 2014 ([сайт конференции](http://gdg-devfest-omsk.org), [презентация](WIP)) |
-| Dec 6-7, 2014 | Эксперт на GDG DevFest 2014 в рамках секции Android Wear |
 | Dec 6-7, 2014 | Баркемп "Fast and Effective Development of Android Apps" @ HappyDev 2014 ([сайт конференции](http://happydev.ru)) |
 | Dec 6-7, 2014 | Мастер-класс "Auto testing of Android apps" @ HappyDev 2014 ([сайт конференции](http://happydev.ru)) |
+| Dec 13-14, 2014 | Организатор GDG DevFest Omsk 2014 ([сайт конференции](http://gdg-devfest-omsk.org)) |
+| Dec 13-14, 2014 | Доклад "Hello Android Wear" @ GDG DevFest Omsk 2014 ([сайт конференции](http://gdg-devfest-omsk.org), [презентация](WIP)) |
+| Dec 13-14, 2014 | Эксперт на GDG DevFest 2014 в рамках секции Android Wear |
