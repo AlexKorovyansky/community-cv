@@ -1,6 +1,6 @@
 | Timestamp | Activity |
 | --------- | -------- |
-|| `Early logs are missing ...` |
+|| `Early logs are missed ...` |
 | Sep 1 — Dec 31 | Instructor @ Education Course ‹‹Dive Into Android›› at Faculty of Computer Science of Omsk State University ([site of the university](http://omsu.ru), [example of presentation](https://speakerdeck.com/alexkorovyansky/dive-into-android-osnovy-intierfieisa-pol-zovatielia)) |
 | Nov 29 — Dec 1 | Android-Expert @ Hackathon ‹‹Forward with Google›› (Novosibirsk) ([habra-post](http://habrahabr.ru/company/google/blog/202672/)) |
 | Dec 14 | Organizer of online-seminar ‹‹Android Performance #1›› @ GDG-RU ([G+ event](https://plus.google.com/events/cpqccs0rlcrt7r0hr5to3h3q6ak)) |
