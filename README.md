@@ -17,7 +17,8 @@
 | Sep 13-14 | Master-class ‹‹Android Dev from Zero to Hero›› @ HappyDev-Lite 2014 ([site of the conference](http://happydev-lite.ru), [description of the master-class](https://github.com/AlexKorovyansky/happydev-master-class)) | 20 |
 | Sep 24 - Oct 10 | Lector/trainer/expert @ Android Trainers of Traines, Tbilisi, Georgia, 2014 (Making lectures, master-classes and hakacthon together with Android experts from Germany, Italy, Turkey, and Poland, including 3 active GDE) | 25 |
 | Oct 4 | Talk ‹‹Android at Cube›› @ GDG DevFest Tbilisi 2014 ([facebook-event](https://www.facebook.com/events/366300300191828/), [slides](https://speakerdeck.com/AlexKorovyansky)) | 50 |
-| Oct 28 | Talk ‹‹Lovely Testing of Android Apps›› @ MBLTDev 2014 ([site of the conference](http://mbltdev.ru/), [slides](https://speakerdeck.com/alexkorovyansky/lovely-testing-of-android-apps)) | 100 |
+| Oct 28 | Talk ‹‹Lovely Testing of Android Apps›› @ MBLTDev 2014 ([site of the conference](http://mbltdev.ru/), [record of talk](http://youtu.be/XyJKMpctBCs
+), [slides](https://speakerdeck.com/alexkorovyansky/lovely-testing-of-android-apps)) | 100 |
 | Dec 6-7 | Barcamp ‹‹Fast and Effective Development of Android Apps›› @ HappyDev 2014 ([site of the conference](http://happydev.ru)) | 10 |
 | Dec 6-7 | Master-class ‹‹Auto testing of Android apps›› @ HappyDev 2014 ([site of the conference](http://happydev.ru)) | 10 |
 | Dec 13-14 | Organizer of GDG DevFest Omsk 2014 ([site of the conference](http://gdg-devfest-omsk.org)) | 60 |
