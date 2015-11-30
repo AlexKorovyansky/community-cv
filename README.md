@@ -25,3 +25,4 @@
 | Dec 13-14 | Expert @ GDG DevFest 2014 in Android Wear section | 60 |
 | | **Start of 2015 year** |
 | Mar 21 | Organizers and expert @ Android Study Jam Omsk ([global site](http://developerstudyjams.com/)) | 40 |
+| Nov 29 | Co-organizer of GDG DevFest Omsk 2015 ([global site](https://developers.google.com/events/devfest/?hl=en)) | 70 |
