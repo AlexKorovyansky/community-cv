@@ -24,5 +24,6 @@
 | Dec 13-14 | Talk ‹‹Hello Android Wear›› @ GDG DevFest Omsk 2014 ([site of the conference](http://gdg-devfest-omsk.org), [slides](WIP)) | 60 |
 | Dec 13-14 | Expert @ GDG DevFest 2014 in Android Wear section | 60 |
 | | **Start of 2015 year** |
-| Mar 21 | Organizers and expert @ Android Study Jam Omsk ([global site](http://developerstudyjams.com/)) | 40 |
+| Mar 21 | Organizer and expert @ Android Study Jam Omsk ([global site](http://developerstudyjams.com/)) | 40 |
+| May 28 - 29 | Attendee of GDG Summit and Google I/O 2015 ([post with highlight for Android Developers](http://habrahabr.ru/post/262321/)) | |
 | Nov 29 | Co-organizer of GDG DevFest Omsk 2015 ([global site](https://developers.google.com/events/devfest/?hl=en)) | 70 |
