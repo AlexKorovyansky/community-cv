@@ -26,4 +26,11 @@
 | | **Start of 2015 year** |
 | Mar 21 | Organizer and expert @ Android Study Jam Omsk ([global site](http://developerstudyjams.com/)) | 40 |
 | May 28 - 29 | Attendee of GDG Summit and Google I/O 2015 ([post with highlight for Android Developers](http://habrahabr.ru/post/262321/)) | |
+| Nov 14 | Talk ‹‹Developing visual complexity›› @ Handsome Tech Party ([vk-event](https://vk.com/handsome_tech_party_2), [slides](https://speakerdeck.com/alexkorovyansky/human-centered-design-and-stanislavskis-system)) | 40 |
 | Nov 29 | Co-organizer of GDG DevFest Omsk 2015 ([global site](https://developers.google.com/events/devfest/?hl=en)) | 70 |
+| Dec 16 | Talk ‹‹How to delight a user›› @ HappyDev 2015  ([site](http://happydev.ru), [slides](https://speakerdeck.com/alexkorovyansky/kak-i-zachiem-voskhishchat-pol-zovatieliei)) | 200 |
+| | **Start of 2016 year** | 
+| Apr 1 | Organizer and expert @ Android Study Jam Omsk ‹‹Beginner level›› ([global site](http://developerstudyjams.com/)) | 50 |
+| Apr 30 | Talk ‹‹Human Centered Design and Stanislavski's System›› @ HappyDev 2015  ([vk-event](https://vk.com/omskit), [slides](https://speakerdeck.com/alexkorovyansky/human-centered-design-and-stanislavskis-system)) | 80 |
+| May 30 | Organizer and expert @ Android Study Jam Omsk ‹‹Intermediate level›› ([global site](http://developerstudyjams.com/)) | 50 |
+| May 18 - 20 | Attendee of GDG Summit and Google I/O 2016 | x |
